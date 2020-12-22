@@ -1,4 +1,2 @@
-# Single_Project
-## basic- sonor
-### ★ 거리(cm) = duration (왕복에 걸린시간) / 29 / 2 (왕복) ★
-### #include <Ultrasonic.h> : 초음파 라이르러리
+# 결과 화면
+![결과이미지](https://github.com/jih3508/Single_Project/blob/master/%EB%94%94%EC%9B%94%EB%93%9C%20%EC%9D%B8%ED%84%B4/img.png)
