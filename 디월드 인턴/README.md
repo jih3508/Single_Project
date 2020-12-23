@@ -139,7 +139,7 @@
             QMessageBox.warning(self, "이미지 없음", "이미지가 없습니다.")
 ```
 
-### 객체 검출한 결과를 테이블로 
+### 객체 검출한 결과를 테이블로 표시
 ```
     def Search_Info(self):
         # threhold 이미지가 저장 되어 있는 경우
