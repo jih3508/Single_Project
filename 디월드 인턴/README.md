@@ -62,6 +62,7 @@
 
  ```
  ### DragEvent
+ - 이미지를 GUI 화면서 드래그를 해서 갖다 넣으면 파일 경로명 저장과 이미지를 보여준다.
  ```
  # 드래그 이벤트
     def dragEnterEvent(self, event):
