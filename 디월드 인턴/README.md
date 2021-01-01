@@ -89,6 +89,8 @@
             event.ignore()
  ```
  ### 필터링
+ - 라디오 버튼을 누르고 밑에 슬라이더로 값을 조정하면 필터링 박스 왼쪽 이미지로 출력한다.
+ - NO 버튼을 클릭하면 슬라이더 값을 변경해도 원본이미지로만 출력한다.
  ```
      def Change_filter(self):
         if self.image != np.array([]):
