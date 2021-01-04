@@ -125,6 +125,8 @@
  ```
 
 ### Treshold 임계처리
+- Threshold 슬라이더바로 값을 조정하면 임계점 기준으로 흑백을 나누어서 밑에 그림으로 출력한다.
+- 이미지가 있는 경우에만 나온다.
 ```
     def Change_value_Threshold(self, value):
         if self.image != np.array([]):
