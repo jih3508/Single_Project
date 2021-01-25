@@ -215,6 +215,7 @@
             QMessageBox.warning(self, "이미지 없음", "이미지가 없습니다.")
 ```
 ### 테이블 클릭시
+- 각 열을 클릭시 바운드박스로 표시한다.
 ```
     def set_box(self, row, column):
         img3 = cv2.imread(self.file_path)
