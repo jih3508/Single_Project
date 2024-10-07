@@ -1,0 +1,25 @@
+
+UPDATE
+  `content__prompt_bank`
+  <set>  
+    <if test="vo.isTitleDirty">
+      `title` = #{vo.title}
+    </if>  
+    <if test="vo.isTagDirty">
+      `tag` = #{vo.tag}
+    </if>  
+    <if test="vo.isChromeLinkUrlDirty">
+      `chrome_link_url` = #{vo.chromeLinkUrl}
+    </if>  
+    <if test="vo.isEdgeLinkUrlDirty">
+      `edge_link_url` = #{vo.edgeLinkUrl}
+    </if>  
+    <if test="vo.isThumbnailImageDirty">
+      `thumbnail_image` = #{vo.thumbnailImage}
+    </if>  
+    <if test="vo.isContentImageDirty">
+      `content_image` = #{vo.contentImage}
+    </if>
+  </set>
+    , `updated_datetime` = NOW()
+  WHERE `prompt_bank_id` = #{promptBankId}

@@ -1,0 +1,18 @@
+  private String title;
+  private Boolean isTitleDirty;
+
+  private String tag;
+  private Boolean isTagDirty;
+
+  private String chromeLinkUrl;
+  private Boolean isChromeLinkUrlDirty;
+
+  private String edgeLinkUrl;
+  private Boolean isEdgeLinkUrlDirty;
+
+  private String thumbnailImage;
+  private Boolean isThumbnailImageDirty;
+
+  private String contentImageId;
+  private Boolean isContentImageIdDirty;
+

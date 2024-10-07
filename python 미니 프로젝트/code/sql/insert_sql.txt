@@ -1,0 +1,27 @@
+
+  INSERT INTO `system__banner`(
+   `image_id`
+  ,`title`
+  ,`link`
+  ,`x`
+  ,`y`
+  ,`width`
+  ,`height`
+  ,`start_datetime`
+  ,`end_datetime`
+  ,`order`
+  ,`use_yn`
+ )
+  VALUES (
+   #{imageId}
+  ,#{title}
+  ,#{link}
+  ,#{x}
+  ,#{y}
+  ,#{width}
+  ,#{height}
+  ,#{startDatetime}
+  ,#{endDatetime}
+  ,#{order}
+  ,#{useYn}
+ )
