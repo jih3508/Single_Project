@@ -1,4 +1,4 @@
-from code.Util import toCamelString
+from Util import toCamelString
 
 """
 INSERT INTO `system__banner`(
@@ -35,22 +35,32 @@ INSERT INTO `system__banner`(
 
 table_name = "system__banner"
 table_columns = [
-  "image_id"
-  ,"title"
-  ,"link"
-  ,"x"
-  ,"y"
-  ,"width"
-  ,"height"
-  ,"start_datetime"
-  ,"end_datetime"
-  ,"order"
-  ,"use_yn"
+  "system_code"	                 
+  "question_type_id"	         
+  "title"	                     
+  "description"	                 
+  "is_guest"	                 
+  "registerer_id"	             
+  "registerer"	                 
+  "updater_id"	                 
+  "updater"	                     
+  "registerer_phone_country_id"	 
+  "registerer_pii_phone_number"	 
+  "registerer_pii_email_address"
+  "iv_data_encryption_key"       
+  "encrypted_data_encryption_key"
+  "center_id"	                 
+  "offline_class_id"	         
+  "online_course_id"	         
+  "model_id"	                 
+  "asset_id"	                 
+  "product_id"	                 
+  "end_datetime"
 ]
 # insert
 sql_insert = """
   INSERT INTO `{0}`(
-   `{1}`\n""".format(table_name, table_columns[0])
+   {1}\n""".format(table_name, table_columns[0])
 sql_value = """ )
   VALUES (
    {}\n""".format("#{" + toCamelString(table_columns[0]) + "}")

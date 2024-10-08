@@ -1,4 +1,4 @@
-from code.Util import toCamelString
+from Util import toCamelString
 
 """
 UPDATE
