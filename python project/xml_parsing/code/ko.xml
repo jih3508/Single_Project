@@ -1,0 +1,25 @@
+<property>
+    <entry key="AD.text1">Workplace</entry>
+    <!-- 사업장 -->
+    <entry key="AD.text2">Save</entry>
+    <!-- 저장 -->
+    <entry key="AD.text3">Usage status</entry>
+    <!-- 사용유무 -->
+    <entry key="ADDR01.text1">Visiting application number</entry>
+    <!-- 내방신청번호 -->
+    <entry key="ADDR01.text2">Visitor</entry>
+    <!-- 내방객 -->
+    <entry key="ADDR01.text3">Card number</entry>
+    <!-- 카드번호 -->
+    <entry key="ADDR01.text4">Password</entry>
+    <!-- 비밀번호 -->
+    <entry key="ADDR01.text5">Confirmation</entry>
+    <!-- 확인 -->
+    <entry key="ADDR01.text6">Cancel</entry>
+    <!-- 취소 -->
+    <entry key="ADAK.text1">Detail information</entry>
+    <!-- 상세정보 -->
+    <entry key="ADAK.text2">Operation date</entry>
+    <!-- 작업일자 -->
+    <entry key="ADAK.text3">Duplication check</entry>
+</property>

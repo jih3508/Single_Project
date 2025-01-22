@@ -1,0 +1,41 @@
+
+<property>
+	<entry key="PMFO01.grid.text02">서약서 명</entry><!-- 서약서 명 -->
+	<entry key="PMFO01.grid.text03">효력시작일</entry><!-- 효력시작일 -->
+	<entry key="PMFO01.grid.text04">효력여부</entry><!-- 효력여부 -->
+	<entry key="PMFO01.grid.text05">사용여부</entry><!-- 사용여부 -->
+	<entry key="PMFO01.grid.text06">등록/수정일</entry><!-- 등록/수정일 -->
+	<entry key="PMFO01.grid.text07">등록/수정자</entry><!-- 등록/수정자 -->
+	<entry key="PMFO01.validationErrMsg01">서약서를 선택해야 합니다.</entry><!-- 서약서를 선택해야 합니다. -->
+	<entry key="PMFO01.validationErrMsg02">효력시작일은 현재일 이후의 날짜로 선택해야 합니다.</entry><!-- 효력시작일은 현재일 이후의 날짜로 선택해야 합니다. -->
+	<entry key="PMFO01.validationErrMsg03">효력시작일은 반드시 선택해야 합니다.</entry><!-- 효력시작일은 반드시 선택해야 합니다. -->
+	<entry key="PMFO01.validationErrMsg04">서약서명은 한글 40글자 영문 60글자까지 입력할 수 있습니다.</entry><!-- 서약서명은 한글 40글자 영문 60글자까지 입력할 수 있습니다. -->
+	<entry key="PMFO01.validationErrMsg05">변경된 사항이 없습니다.</entry><!-- 변경된 사항이 없습니다. -->
+	<entry key="PMFO01.validationErrMsg06">효력이 만료된 서약서는 설정할 수 없습니다.</entry><!-- 효력이 만료된 서약서는 설정할 수 없습니다. -->
+	<entry key="PMFO01.validationErrMsg07">이미 효력예정인 서약서가 존재합니다.</entry><!-- 이미 효력예정인 서약서가 존재합니다. -->
+	<entry key="PMFO01.processSucMsg">정상처리 되었습니다</entry><!-- 정상처리 되었습니다 -->
+	<entry key="PMFO01.processErrMsg">프로세스 수행 중 에러가 발생하였습니다.</entry><!-- 프로세스 수행 중 에러가 발생하였습니다. -->
+	<entry key="PMFO01.CodeLocaleSelectBox.defaultLabel.all">전체</entry><!-- 전체 -->
+	<entry key="PMRG01.text01">미등록 전자 서약서</entry><!-- 미등록 전자 서약서 -->
+	<entry key="PMRG01.text02">서약서 종류</entry><!-- 서약서 종류 -->
+	<entry key="PMRG01.text03">서약서 명</entry><!-- 서약서 명 -->
+	<entry key="PMRG01.text04">등록기간</entry><!-- 등록기간 -->
+	<entry key="PMRG01.text05">비고</entry><!-- 비고 -->
+	<entry key="PMRG01.text06">시작일</entry><!-- 시작일 -->
+	<entry key="PMRG01.text07">만료일</entry><!-- 만료일 -->
+	<entry key="PMRG01.text08">구분</entry><!-- 구분 -->
+	<entry key="PMRG01.text09">※ 전자서약 등록하기 버튼을 클릭하면 서약서 전자 서명이 진행 됩니다.</entry><!-- ※ 전자서약 등록하기 버튼을 클릭하면 서약서 전자 서명이 진행 됩니다. -->
+	<entry key="PMRG01.text10">미등록 서약서가 존재하지 않습니다.</entry><!-- 미등록 서약서가 존재하지 않습니다. -->
+	<entry key="PMRG01.processSucMsg01">정상처리 되었습니다.</entry><!-- 정상처리 되었습니다. -->
+	<entry key="PMRG01.processErrMsg01">프로세스 수행 중 에러가 발생하였습니다.</entry><!-- 프로세스 수행 중 에러가 발생하였습니다. -->
+	<entry key="PMRG01.processErrMsg02">미등록 서약서가 존재하지 않습니다.</entry><!-- 미등록 서약서가 존재하지 않습니다. -->
+	<entry key="PMRG02.text01">수기서약서 조회</entry><!-- 수기서약서 조회 -->
+	<entry key="PMRG02.text02">주제</entry><!-- 주제 -->
+	<entry key="PMRG02.text03">일자</entry><!-- 일자 -->
+	<entry key="PMRG02.text04">수기서약서 정보</entry><!-- 수기서약서 정보 -->
+	<entry key="PMRG02.text05">주제</entry><!-- 주제 -->
+	<entry key="PMRG02.text06">일자</entry><!-- 일자 -->
+	<entry key="PMRG02.text07">비고</entry><!-- 비고 -->
+	<entry key="PMRG02.text08">등록/수정일</entry><!-- 등록/수정일 -->
+
+</property>

@@ -1,0 +1,31 @@
+
+<property>
+	<entry key="PMRG02.validationErrMsg10">날짜를 선택해주세요.</entry>
+	<entry key="PMRG02.validationErrMsg11">관계사만 검색할 수 있습니다.</entry>
+	<entry key="PMRG02.validationErrMsg12">사용자가 존재하지 않습니다.</entry>
+	<entry key="PMRG02.validationErrMsg13">저장 할 주제를 선택해주세요.</entry>
+	<entry key="PMRG02.validationErrMsg14">유효하지 않은 접근입니다.</entry>
+	<entry key="PMRG02.processSucMsg01">정상처리 되었습니다.</entry>
+	<entry key="PMRG02.processErrMsg01">프로세스 수행 중 에러가 발생하였습니다.</entry>
+	<entry key="PMRG02.CodeLocaleSelectBox.defaultLabel.all">전체</entry>
+	<entry key="PMRG02P1.noFileErrMsg">파일을 선택하세요.</entry>
+	<entry key="PMRG02P1.processSucMsg01">정상처리 되었습니다.</entry>
+	<entry key="PMRG02P1.processErrMsg01">프로세스 수행 중 에러가 발생하였습니다.</entry>
+	<entry key="PMRG02P2.noFileErrMsg">파일을 선택하세요.</entry>
+	<entry key="PMRG02P2.processSucMsg01">정상처리 되었습니다.</entry>
+	<entry key="PMRG02P2.processErrMsg01">프로세스 수행 중 에러가 발생하였습니다.</entry>
+	<entry key="PMRG02P2.processErrMsg02">선택된 항목이 없습니다.</entry>
+	<entry key="AD.text1">Workplace</entry>
+	<entry key="AD.text2">Save</entry>
+	<entry key="AD.text3">Usage status</entry>
+	<entry key="ADDR01.text1">Visiting application number</entry>
+	<entry key="ADDR01.text2">Visitor</entry>
+	<entry key="ADDR01.text3">Card number</entry>
+	<entry key="ADDR01.text4">Password</entry>
+	<entry key="ADDR01.text5">Confirmation</entry>
+	<entry key="ADDR01.text6">Cancel</entry>
+	<entry key="ADAK.text1">Detail information</entry>
+	<entry key="ADAK.text2">Operation date</entry>
+	<entry key="ADAK.text3">Duplication check</entry>
+
+</property>

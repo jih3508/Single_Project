@@ -1,0 +1,38 @@
+
+<property>
+	<entry key="PMRG02.text09">동록/수정자</entry>
+	<entry key="PMRG02.text10">서약서 대상자 정보</entry>
+	<entry key="PMRG02.text11">구분</entry>
+	<entry key="PMRG02.text12">부서/업체</entry>
+	<entry key="PMRG02.text13">성명</entry>
+	<entry key="PMRG02.text14">조회</entry>
+	<entry key="PMRG02.text15">일괄 업로드</entry>
+	<entry key="PMRG02.text16">추가</entry>
+	<entry key="PMRG02.text17">삭제</entry>
+	<entry key="PMRG02.text18">구분</entry>
+	<entry key="PMRG02.text19">성명</entry>
+	<entry key="PMRG02.text20">부서/업체</entry>
+	<entry key="PMRG02.text21">사번/생년월일</entry>
+	<entry key="PMRG02.text22">등록일</entry>
+	<entry key="PMRG02.text23">서명일</entry>
+	<entry key="PMRG02.text24">서약서 업로드</entry>
+	<entry key="PMRG02.text25">서약서 확인</entry>
+	<entry key="PMRG02.text26">보기</entry>
+	<entry key="PMRG02.text27">※ 서약서 업로드 시 파일명을 사번/생년월일_이름.jpg로 등록해 주세요.</entry>
+	<entry key="PMRG02.text28">아이디</entry>
+	<entry key="PMRG02.grid.text01">주제</entry>
+	<entry key="PMRG02.grid.text02">비고</entry>
+	<entry key="PMRG02.grid.text03">일자</entry>
+	<entry key="PMRG02.grid.text04">등록/수정일</entry>
+	<entry key="PMRG02.grid.text05">등록/수정자</entry>
+	<entry key="PMRG02.validationErrMsg01">임직원 또는 협력사만 검색할 수 있습니다.</entry>
+	<entry key="PMRG02.validationErrMsg02">주제는 40글자이내로 작성해주세요.</entry>
+	<entry key="PMRG02.validationErrMsg03">비고는 40글자이내로 작성해주세요.</entry>
+	<entry key="PMRG02.validationErrMsg04">이름은 30자이내로 작성해주세요.</entry>
+	<entry key="PMRG02.validationErrMsg05">부서/업체는 30자이내로 작성해주세요.</entry>
+	<entry key="PMRG02.validationErrMsg06">사번/생년월일은  10자이내의 숫자로만 작성해주세요.</entry>
+	<entry key="PMRG02.validationErrMsg07">주제는 반드시 기입하셔야 합니다.</entry>
+	<entry key="PMRG02.validationErrMsg08">주제는 2글자 이상 입력해주세요.</entry>
+	<entry key="PMRG02.validationErrMsg09">서약자 정보는 반드시 기입하셔야 합니다.</entry>
+
+</property>
